@@ -3,7 +3,9 @@
 This project aims to explore Citi bike NYC data. The graph here would consists of nodes as source and destination and edges will represent information like time taken to reach, age of the rider, etc. and perform some analysis on • Calculate parameters like centralities, betweenness, closeness etc.
 
 • How the graph is structured[1].
+
 • Bike density with respect to time.
+
 • Traffic density analysis on start and end points [2, 3].
 
 
