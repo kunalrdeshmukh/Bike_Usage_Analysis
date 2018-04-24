@@ -10,16 +10,21 @@ This project aims to explore Citi bike NYC data. The graph here would consists o
 
 
 DataSet
+
 We plan to use Citi bike data available on citi bike nyc site[4].
 
 
 
 References
+
 [1] Y. Hou, S. Sy, and C. Yuan, “Bike network flow prediction,” MIT CS 224W,
 2017.
+
 [2] M. Pearson, J. Sagastuy, and S. Samaniego, “Traffic flow analysis using uber
 movement data,” MIT CS 224W, 2017.
+
 [3] D. W. Daddio, Maximizing Bicycle Sharing: An Empirical Analysis Of Capital
 Bikeshare Usage. NC, USA: University of North Carolina at Chapel Hill,
 2012.
+
 [4] Citi bike system, “Citi Bike Dataset.” https://www.citibikenyc.com/systemdata.
