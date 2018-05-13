@@ -13,6 +13,8 @@ DataSet
 
 We plan to use Citi bike data available on citi bike nyc site[4].
 
+We ran girvan newman algorithm on undirected graph for cummunity detection. As well as proposed an algorithm for bike movement.
+
 
 
 References
