@@ -15,7 +15,7 @@ We plan to use Citi bike data available on citi bike nyc site[4].
 
 We ran girvan newman algorithm on undirected graph for cummunity detection. As well as proposed an algorithm for bike movement.
 
-![alt text][https://raw.githubusercontent.com/kunalrdeshmukh/Bike_Usage_Analysis/master/Community_detection.png?token=AF8TkU7UrRRNbsLzh6eaKoWyiCEz4SRWks5bAgGIwA%3D%3D]
+![alt text][https://raw.githubusercontent.com/kunalrdeshmukh/Bike_Usage_Analysis/master/Community_detection.png]
 
 References
 
